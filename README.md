@@ -16,7 +16,7 @@ Passionate about technology, science and the scientific advances that the future
 
 - 🔭 I am currently looking for a job opportunity to develop my technical and personal/soft skills.
 - 🌱 Always developing my professional and personal growth.
-- 😀 Looking to collaborate on projects related to robotics, artificial intelligence, hardware, software, semiconductors and information technology.
+- 😀 Looking to collaborate on projects related to robotics, artificial intelligence, hardware, software, semiconductors, information and communication technology.
 
 
 ## Technologies
