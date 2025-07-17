@@ -63,8 +63,8 @@ Passionate about technology, science and the scientific advances that the future
 ## Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anbs12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anbs12&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anbs12&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anbs12&layout=compact&langs_count=8&theme=darcula"/>
 </p>
 
 
