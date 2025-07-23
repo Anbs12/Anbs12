@@ -65,6 +65,8 @@ Passionate about technology, science and the scientific advances that the future
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anbs12&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anbs12&layout=compact&langs_count=8&theme=darcula"/>
+  <br>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Anbs12&theme=elegant" alt="GitHub graph" /></a>
 </p>
 
 
@@ -81,4 +83,9 @@ Have fun with my online portfolio where I have videos of my projects!
   <a href="https://www.linkedin.com/in/anubism/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
+</p>
+
+## Misc
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://komarev.com/ghpvc/?username=Anbs12&abbreviated=true" alt="GitHub view counter" /></a>
 </p>
